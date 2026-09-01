@@ -14,6 +14,6 @@ Cada carpeta corresponde a una placa física (QR + NFC) que se traslada de proye
 
 | Carpeta | Proyecto actual | Link |
 |---|---|---|
-| Inst1 | — | https://cfer2188.github.io/3DC/Inst1/ |
+| Inst1 | Xepelin | https://cfer2188.github.io/3DC/Inst1/ |
 | Inst2 | — | https://cfer2188.github.io/3DC/Inst2/ |
 | Inst3 | — | https://cfer2188.github.io/3DC/Inst3/ |
